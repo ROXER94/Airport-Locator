@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Moat - Airport Locator</title>
+    <title>Airport Locator</title>
 
     <!-- Using jQuery with a CDN -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
