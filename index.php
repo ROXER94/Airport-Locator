@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!--See this website live here: http://info230.cs.cornell.edu/users/rdo26sp15/www/world/Moat/index.php -->
 <html lang="en-US">
 
 <head>
