@@ -1,0 +1,108 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #B3D1FF;
+}
+#map {
+    height: 55%;
+    width: 55%;
+    position: absolute;
+    bottom: 3%;
+    left: 20%;
+}
+.input {
+    font-family: 'Sriracha', cursive;
+}
+.error {
+    color: red;
+    font-weight: bold;
+}
+h2 {
+    font-family: 'Sriracha', cursive;
+}
+h3 {
+    font-family: 'Sriracha', cursive;
+}
+#left {
+    float: left;
+    width: 25%;
+    text-align: center;
+    position: relative;
+    left: 5%;
+}
+#right {
+    float: right;
+    width: 25%;
+    text-align: center;
+    position: relative;
+    left: -5%;
+}
+#airport1 {
+    width: 93%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+#airport2 {
+    width: 93%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+}
+#footer {
+    color: grey;
+    font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+    font-size: 11px !important;
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+}
+/**http://www.graemeboy.com/css-buttons**/
+.styled-button {
+    background: #00A0D1;
+    background: -moz-linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #00A0D1), color-stop(100%, #008DB8));
+    background: -webkit-linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    background: -o-linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    background: -ms-linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    background: linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#00A0D1', endColorstr='#008DB8', GradientType=0);
+    padding: 8px 20px;
+    color: #cfebf3;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 100%;
+    border-radius: 40px;
+    -moz-border-radius: 40px;
+    -webkit-border-radius: 40px;
+    border: 1px solid #095B7E;
+}
+.styled-button:hover{
+    background: #00A0D1;
+    background: -moz-linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #00A0D1), color-stop(100%, #008DB8));
+    background: -webkit-linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    background: -o-linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    background: -ms-linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    background: linear-gradient(top, #00A0D1 0%, #008DB8 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#00A0D1', endColorstr='#008DB8', GradientType=0);
+    padding: 8px 20px;
+    color: black;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 100%;
+    border-radius: 40px;
+    -moz-border-radius: 40px;
+    -webkit-border-radius: 40px;
+    border: 1px solid black;
+}
+#output {
+    font-family: 'Sriracha', cursive;
+    font-size: 90%;
+}
+img {
+    width: 18%;
+    height: 20%;
+    position: absolute;
+    bottom: 1%;
+    left: 81%;
+}
